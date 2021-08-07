@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working to excel in the world of Data Science.
+- 🌱 I’m currently learning Python, Statistics and Data Analytics.
+- 👯 I’m looking to collaborate on Data Science projects.
+- 📫 How to reach me: shubhampatel101@gmail.com
+
+
 <!--
 **s-hub404/s-hub404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
